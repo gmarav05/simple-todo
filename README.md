@@ -21,7 +21,6 @@ A simple To-Do List application built with HTML, CSS, and JavaScript. Users can 
 ## 🧠 What I Learned
 - DOM manipulation
 - Handling user input with events
-- Using `localStorage` to persist data
 - Writing clean and organized JavaScript code
 
 ## 📁 How to Run Locally
